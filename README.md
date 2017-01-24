@@ -1,4 +1,5 @@
 # Arra
+*Project Dead for now.*
 The Arra programming language is an experimental language for the JVM. 
 It has got an **very** easy to parse syntax, which is always
 
